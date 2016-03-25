@@ -1,0 +1,10 @@
+Nama;Link
+detik;http://detik.feedsportal.com/c/33613/f/656089/index.rss
+viva;http://rss.viva.co.id/get/bisnis
+merdeka;http://www.merdeka.com/feed/
+liputan6;http://www.liputan6.com/feed/rss2
+tribun;http://www.tribunnews.com/rss/bisnis
+okezone;http://sindikasi.okezone.com/index.php/rss/11/RSS2.0
+jpnn;http://www.jpnn.com/index.php?mib=rss&id=216
+suara;http://www.suara.com/rss/bisnis
+bisniscom;http://www.bisnis.com/rss/index?c=382
